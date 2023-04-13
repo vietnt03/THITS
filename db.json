@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "hungbodoi@gmail.com",
+      "password": "$2a$10$pNFDGoNrBs5o6QDq8f/xOe2t/kXQDDyn2PqNtRKU/.sRcCSWXFcKG",
+      "confirmPassword": "123456",
+      "role": 1,
+      "id": 1
+    },
+    {
+      "email": "hungbodoi1231323@gmail.com",
+      "password": "$2a$10$QoyTvX9nifbkKzb9Ht2N5OHI9q9iUFMVFi9dX7oNnjHPvyk/CZjf6",
+      "confirmPassword": "123456",
+      "id": 2
+    },
+    {
+      "email": "hungbodoi@gmail.com1",
+      "password": "$2a$10$mfRh6HF0BXb5tw1E4Xb5L.WMDe34jIkT8dYqvZgIwhPDAoHHvNN2y",
+      "confirmPassword": "123456",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "thuonghieu": "fdgfhghjjk",
+      "mota": "qewrtyfydhdgd",
+      "original_price": "23456",
+      "name": "rej",
+      "id": 1
+    },
+    {
+      "thuonghieu": "sdgddssdfsdfs",
+      "mota": "fsfffcsaadad",
+      "original_price": 2332131,
+      "name": "hung4",
+      "id": 2
+    },
+    {
+      "thuonghieu": "wretrytuytiuyoio",
+      "mota": "gfdhgfhjgj",
+      "original_price": 4354,
+      "name": "afdgfhg",
+      "id": 3
+    }
+  ]
+}
